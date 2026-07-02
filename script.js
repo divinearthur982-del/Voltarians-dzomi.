@@ -50,7 +50,7 @@ function checkout() {
     msg += `${c.name} - GH₵${c.price}%0A`;
   });
 
-  window.open(`https://wa.me/233XXXXXXXXX?text=${msg}`, "_blank");
+  window.open(`https://wa.me/233245102225?text=${msg}`, "_blank");
 }
 
 // SEARCH
